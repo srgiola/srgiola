@@ -2,12 +2,7 @@
 Yo soy Sergio Lara, estudiante de Ingeniería en Informática y Sistemas de Guatemala.<br/>
 
 ## Habilidades
-<img src="https://img.shields.io/badge/-C%23-blueviolet" /> 
-<img src="https://img.shields.io/badge/-C%2B%2B-blue" /> 
-<img src="https://img.shields.io/badge/-Java-orange" />
-<img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> 
-<img src="https://img.shields.io/badge/-Assembly-lightgrey" />  
-<img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
+<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-Photoshop-9cf" />
 <details>
 	<summary>Herramientas</summary>
 	<ul>
