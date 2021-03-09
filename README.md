@@ -29,21 +29,18 @@ Actualmente soy desarrollador web junior y también doy clases de matemática, f
 ## Estadísticas
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos, sino su porcentaje de aparición en mis repositorios.
 
-<a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresSGalvezA&layout=compact&theme=gotham" />
+<a href="https://github.com/srgiola/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgiola&layout=compact&theme=gotham" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/AndresSGalvezA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresSGalvezA&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Andres" />
+<br><a href="https://github.com/srgiola/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srgiola&show_icons=true&theme=gotham&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Andres" />
 </a> &nbsp;
 
 ## Conecta conmigo &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/andres-g%C3%A1lvez-920b141b0/">
+<a href="https://www.linkedin.com/in/sergiola/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/andarrz">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:asgasebastian@gmail.com">
+  <a href="mailto:srgiolarav@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
