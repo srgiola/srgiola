@@ -1,4 +1,4 @@
-# 🖥 Acerca de mí
+<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 Yo soy Sergio Lara, estudiante de Ingeniería en Informática y Sistemas de la Universidad Rafael Landívar de Guatemala.<br/>
 
 ## Habilidades
