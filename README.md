@@ -8,7 +8,7 @@ I'm Sergio Lara, currently studying computer science and systems engineering at 
 	<ul>
     	  <li>Visual Studio</li>
 	  <li>Visual Studio Code</li>
-	  <li>MSSQL</li>
+	  <li>SSMS</li>
 	</ul>
 </details>
 <details>
