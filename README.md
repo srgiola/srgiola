@@ -21,12 +21,13 @@ I'm Sergio Lara, currently studying computer science and systems engineering at 
 
 ## Github's Metrics
 Note: The most used languages do not indicate my level of mastery over them, but their percentage of appearance in my repositories.
+<br>
 <a href="https://github.com/srgiola/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgiola&layout=compact&theme=default" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/srgiola/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srgiola&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Andres" />
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=srgiola&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Estadísticas de Github de Sergio" />
 </a> &nbsp;
 
 ## Reach me out &nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
