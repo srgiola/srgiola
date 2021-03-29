@@ -4,18 +4,16 @@ I'm Sergio Lara, currently studying computer science and systems engineering at 
 ## Skills
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-MSSQL-blue" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" />
 <details>
-	<summary>Tools</summary>
+	<summary>Frameworks</summary>
 	<ul>
-    	  <li>Visual Studio</li>
-	  <li>Visual Studio Code</li>
-	  <li>SSMS</li>
+		<li>.NET</li>
 	</ul>
 </details>
 <details>
 	<summary>Operating Systems</summary>
 	<ul>
-	  <li>Windows Server</li>
-	  <li>SUSE Linux Enterprise Server (SLES)</li>
+		<li>Windows Server</li>
+		<li>SUSE Linux Enterprise Server (SLES)</li>
 	</ul>
 </details>
 
