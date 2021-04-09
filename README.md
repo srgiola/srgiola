@@ -3,6 +3,7 @@ I'm Sergio Lara, currently studying computer science and systems engineering at 
 
 ## Skills
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-MSSQL-blue" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" />
+<img src="https://img.shields.io/badge/-PostgreSQL-%20%23336791" />
 <details>
 	<summary>Frameworks</summary>
 	<ul>
