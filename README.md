@@ -1,5 +1,5 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
-I'm Sergio Lara, currently studying computer science and systems engineering at University Rafael Landívar de Guatemala.<br/>
+I'm Sergio Lara, currently studying computer science and systems engineering at Rafael Landívar University of Guatemala.<br/>
 
 ## Skills
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" />
