@@ -2,7 +2,7 @@
 I'm Sergio Lara, currently studying computer science and systems engineering at Rafael Landívar University of Guatemala.<br/>
 
 ## Skills
-<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-C%2B%2B-blue" /> <img src="https://img.shields.io/badge/-Java-orange" /> <img src="https://img.shields.io/badge/-Assembly-lightgrey" /> <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-HTML-orange" />
+<img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-Python-yellow" /> <img src="https://img.shields.io/badge/-HTML-orange" />
 <img src="https://img.shields.io/badge/-CSS-informational" /> <img src="https://img.shields.io/badge/-JavaScript-yellow" />
 </br>
 <img src="https://img.shields.io/badge/-PostgreSQL-%20%23336791" /> <img src="https://img.shields.io/badge/-MSSQL-blue" />
@@ -10,16 +10,8 @@ I'm Sergio Lara, currently studying computer science and systems engineering at 
 	<summary>Frameworks</summary>
 	<ul>
 		<li>.NET</li>
-		<li>ASP.NET</li>
-		<li>DJango</li>
-		<li>Flask</li>
-	</ul>
-</details>
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows Server</li>
-		<li>SUSE Linux Enterprise Server (SLES)</li>
+		<li>NodeJS</li>
+		<li>React</li>
 	</ul>
 </details>
 
