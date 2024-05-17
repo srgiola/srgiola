@@ -1,15 +1,5 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
-## Skills
-	<ul>
-		<li>NodeJS</li>
-		<li>AWS</li>
-		<li>Terraform</li>
-		<li>Python</li>
-		<li>DevOps</li>
-	</ul>
-
-## Github's Metrics
 <br>
 <a href="https://github.com/srgiola/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgiola&layout=compact&theme=default" />
