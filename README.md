@@ -2,7 +2,6 @@
 
 ## Skills
 <details>
-	<summary>Frameworks</summary>
 	<ul>
 		<li>NodeJS</li>
 		<li>AWS</li>
