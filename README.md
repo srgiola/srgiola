@@ -1,7 +1,6 @@
 <h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
 
 ## Skills
-<details>
 	<ul>
 		<li>NodeJS</li>
 		<li>AWS</li>
@@ -9,7 +8,6 @@
 		<li>Python</li>
 		<li>DevOps</li>
 	</ul>
-</details>
 
 ## Github's Metrics
 <br>
